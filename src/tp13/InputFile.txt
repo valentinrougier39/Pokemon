@@ -1,0 +1,16 @@
+Piplup EAU 5 true 51 53 61 56 tackle morsure pistoleEau enfer END
+Rowlet PLANTE 7 false 55 55 50 55 morsure feinte tornadeFeuilles END
+Totodile EAU 8 true 65 64 44 48 bulle coupDeTete END
+Vulpix FEU 3 true 41 40 50 65 tackle morsure croquer END
+Paras PLANTE 10 false 70 55 45 55 croquer tornadeFeuilles feinte END
+Arcanine FEU 15 true 85 60 75 60 enfer croquer coupDeTete END
+Seel EAU 6 true 45 55 45 70 pistoleEau feinte tackle bulle END
+Meganium PLANTE 6 true 48 60 49 60 tackle croquer coupDeTete END
+Umbreon FONCE 12 false 55 80 50 85 coupDeTete tackle feinte END
+Kirlia TELEPATIQUE 8 true 35 35 65 55 morsure croquer feinte END
+Roselia PLANTE 10 false 60 45 80 75 tornadeFeuilles tackle croquer END
+Piplup EAU 1 true 32 33 36 35 morsure feinte END
+Vulpix FEU 9 true 55 52 63 75 tackle coupDeTete enfer END
+Paras PLANTE 4 false 60 45 40 47 croquer morsure feinte END
+Seel EAU 13 true 68 75 69 84 bulle morsure croquer END
+Roselia PLANTE 5 false 50 40 58 55 tornadeFeuilles morsure feinte END
