@@ -7,4 +7,6 @@ A noter que ce jeu a été réalisé uniquement été effectué en mode console,
 ## Principales fonctionnalités 
 - Nourrir et soigner un pokemon
 - Organiser des batailles entre 2 pokémons
-- 
+
+## Outils & Languages 
+Ce projet a été développé en Java sur Ecclipse. 
