@@ -9,4 +9,9 @@ A noter que ce jeu a été réalisé uniquement été effectué en mode console,
 - Organiser des batailles entre 2 pokémons
 
 ## Outils & Languages 
-Ce projet a été développé en Java sur Ecclipse. 
+
+#### Projet développé en : 
+- Java
+
+#### Avec : 
+- Ecclipse
